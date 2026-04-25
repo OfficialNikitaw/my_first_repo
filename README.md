@@ -1,3 +1,1 @@
-# my_first_repo
-first repository(trial)
-second
+Arduino is an open-source electronics platform based on easy-to-use hardware and software, designed for building digital devices, interactive objects, or environments
